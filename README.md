@@ -11,8 +11,7 @@
 You can see the links in my VScode
 
 ### My process
-It is my portfolio that I made it with my skills. The background was just colour but I changed my mind. I put the image background that suited the colour. 
-I chose green as the main colour because I liked the plants. I added the side colours into my portfolio that makes unique with green. I tried not to get too much excessive colours.
+I made my portfolio using my skills. At first, it had a plain color background, but I changed it to a picture that matched the color. I picked green as the main color because I like plants. I added some side colors to make it unique with green, keeping it simple without too many colors.
 
 ### Built with
 
@@ -23,15 +22,11 @@ I chose green as the main colour because I liked the plants. I added the side co
 - Google Alternatives like icons/font family
 
 ### What I learned
-It took me a few months to understand HTML/CSS/JS. 
-I can not say it is easy but I am processing. But I feel I can coding after long practices.
-I would make my style ideas into the web, the small part goes sometimes out of hand.
-Then it starts messing up all the code. But it stops me not, I figured it out why the code doesn't work and changed it a lot. I like finding it out that how and why happenend. It gives me envilened.
+It took me a few months to learn HTML, CSS, and JS. It's not easy, but I'm getting the hang of it. After lots of practice, I can now code. When I turn my style ideas into a website, sometimes things go a bit crazy. It messes up the code, but that doesn't stop me. I figure out why it's not working and make a lot of changes. I enjoy figuring out how and why things happen—it motivates me.
+
 
 ### Continued development
-I am still beginnner but I did it all by searching on the internet and getting information their code explaintion that how the code works. 
-Any encounter I will be trying to do my best to solve it. 
-For the future, I would to do a few frameworks to gain my new skills and working on it like the projects.
+For the future, I would to do a few frameworks to gain my new skills and working on it.
 
 
 ### Useful resources
